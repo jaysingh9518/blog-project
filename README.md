@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/my-blog-project.git
+   git clone https://github.com/jaysingh9518/blog-project.git
    cd my-blog-project
    ```
 
@@ -137,15 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any issues or questions, please reach out via:
 
-- Email: your-email@example.com
-- GitHub Issues: [https://github.com/your-username/my-blog-project/issues](https://github.com/your-username/my-blog-project/issues)
+- Email: jaysingh9518@gmail.com
+- GitHub Issues: [https://github.com/jaysingh9518/blog-project/issues](https://github.com/jaysingh9518/blog-project/issues)
 
 ```
-
-### Customization Tips
-
-1. **Replace placeholders** like `your-username`, `your-email@example.com`, and image paths with actual content.
-2. **Add more features** as needed or remove sections that are not applicable to your project.
-3. **Update the screenshots** section with actual images of your blog pages.
-4. **Add more API endpoints** or usage details if your application includes more features.
-5. **Contributing guidelines** can be expanded if there are specific code styles or testing requirements.
